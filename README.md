@@ -1,1 +1,1 @@
-# my-structure-react-app
+# my-quiz-app
