@@ -1,5 +1,5 @@
 {
-  "name": "react-structure-folder",
+  "name": "my-quiz-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,17 +28,9 @@
       "git add --force"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/baonguyen2411/react-structure-folder.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/baonguyen2411/react-structure-folder/issues"
-  },
-  "homepage": "https://github.com/baonguyen2411/react-structure-folder#readme",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/plugin-transform-modules-commonjs": "^7.15.4",
